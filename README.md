@@ -8,14 +8,6 @@
   - (https://github.com/mespinoza28/Bond_Pricer_Python) <b><i></b></i>
 
 
-<h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="MatiasEspinoza | LinkedIn" width="22px" src="www.linkedin.com/in/espinozamatias" />][linkedin]
-
-
-
-
-[linkedin]: www.linkedin.com/in/espinozamatias
 
 
