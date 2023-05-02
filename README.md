@@ -4,6 +4,8 @@
 
  - <b>Simple forecasting tool - R </b>
   - [Simple forecasting tool](https://github.com/mespinoza28/simpleforecastsolution)
+  - <b>9 week rolling average - SQL </b>
+  - [week rolling average](https://github.com/mespinoza28/avgforecast_SQL)
 - <b>Portfolio optimizer - Python </b>
   - [Portfolio optimizer](https://github.com/mespinoza28/PortfolioOptimizer_Python)
 - <b> Bond pricer - Python</b>
