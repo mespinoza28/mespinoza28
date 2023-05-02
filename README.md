@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Portfolio Optimizer - Python </b>
-  - [Portfolio Optimizer](https://github.com/mespinoza28/PortfolioOptimizer_Python)
-- <b> Bond Pricer - Python</b>
-  - [Bond Pricer](https://github.com/mespinoza28/Bond_Pricer_Python) <b><i></b></i>
+ - <b>Simple forecasting tool - R </b>
+  - [Simple forecasting tool](https://github.com/mespinoza28/simpleforecastsolution)
+- <b>Portfolio optimizer - Python </b>
+  - [Portfolio optimizer](https://github.com/mespinoza28/PortfolioOptimizer_Python)
+- <b> Bond pricer - Python</b>
+  - [Bond pricer](https://github.com/mespinoza28/Bond_Pricer_Python) <b><i></b></i>
 - <b> VaR and ES calculator - Python</b>
   - [VaR and ES calculator](https://github.com/mespinoza28/VaR-ES_Calculator) <b><i></b></i>
 
